@@ -1,0 +1,11 @@
+[
+  {"file": "Accepted.lean", "declaration": "successor_witness", "lines": [5, 8]},
+  {"file": "Accepted.lean", "declaration": "cast_after_nat_sub", "lines": [10, 12]},
+  {"file": "Accepted.lean", "declaration": "rewrite_backward", "lines": [14, 15]},
+  {"file": "Accepted.lean", "declaration": "and_swap_direct", "lines": [17, 18]},
+  {"file": "Accepted.lean", "declaration": "and_swap_destruct", "lines": [20, 22]},
+  {"file": "Accepted.lean", "declaration": "zero_add_induction", "lines": [24, 29]},
+  {"file": "Accepted.lean", "declaration": "omega_step", "lines": [31, 32]},
+  {"file": "StatusCases.lean", "declaration": "axiom_wrapper", "lines": [7, 8], "context_lines": [[5, 5]]},
+  {"file": "StatusCases.lean", "declaration": "admitted_witness", "lines": [10, 11]}
+]

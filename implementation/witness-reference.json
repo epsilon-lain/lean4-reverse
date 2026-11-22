@@ -1,0 +1,12 @@
+{
+  "declaration": {"text": "The theorem is successor_witness.", "start_line": 5, "end_line": 5},
+  "objects_and_assumptions": [
+    {"text": "Let n be an arbitrary natural number. The witness m must also be a natural number.", "start_line": 5, "end_line": 6}
+  ],
+  "statement_or_definition": {"text": "For each natural number n there is a natural number m such that m = n + 1 and n < m.", "start_line": 5, "end_line": 5},
+  "reasoning_steps": [
+    {"text": "Choose n + 1 as the witness after introducing n. Reflexivity gives the equality.", "start_line": 6, "end_line": 7},
+    {"text": "Use Nat.lt_succ_self n to establish the strict inequality n < n + 1.", "start_line": 8, "end_line": 8}
+  ],
+  "open_details": []
+}
