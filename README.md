@@ -1,5 +1,7 @@
 # Lean4 Reverse
 
+**[Download the Riemann Hypothesis Lean 4 translation preview (PDF)](https://github.com/epsilon-lain/lean4-reverse/releases/download/rh-1of100-preview/riemann-lean-1of100-recovered-partial.pdf).** This AI-assisted English translation covers 1,886 of 2,065 batches in the planned 1% selection. Translation and formula errors may remain.
+
 This bundle contains the task brief, English translation framework, first acceptance benchmark, and a runnable CLI prototype.
 
 - `CODEX_TASK.md` gives Codex the implementation and pilot scope.
